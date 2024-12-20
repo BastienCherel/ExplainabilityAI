@@ -1,4 +1,5 @@
-BOUSSAADIA Meriem <meriem.boussaadia@edu.devinci.fr>; 
-CHAHBOUN Mohammed Wafiq <mohammed-wafiq.chahboun@edu.devinci.fr>;
+BOUSSAADIA Meriem <meriem.boussaadia@edu.devinci.fr>
+CHAHBOUN Mohammed Wafiq <mohammed-wafiq.chahboun@edu.devinci.fr>
 LOU Shangzhi <shangzhi.lou@edu.devinci.fr>
 CHEREL Bastien <bastien.cherel@edu.devinci.fr>
+BENOMAR Hamza <hamza.benomar@edu.devinci.fr>
